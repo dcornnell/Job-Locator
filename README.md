@@ -7,6 +7,7 @@
 ## Project Description: 
 
 A Web site for job searchers that displays a map of a chosen area. The user will be able to select search parameters distance, job position, location, etc. The map will show the locations of job postings in the specified area. If users log in their previous searches will be saved.
+![Job Locator](https://dcornnell.github.io/Portfolio-2019/assets/images//job.png)
 
 ## Team Members: 
 
